@@ -1,0 +1,36 @@
+What is React? Why react?
+=> Facebook 2013 se aphele jab react nhi aayi thi sahi chal rha hai par jab users badhe tabh functionalities badhani poadegiiii ....jaise jaise functionality bahi codebase become heavy to maintain karna difficult hota ja rha tha ....codebase heavy error aaenge...effect on performance.
+
+Data sync
+data layer(sabh kuch eq video aarhi hai data layer par aarha h ) and ui layer didnt sync with each other thats the problem
+
+Imperative Approach(how) 
+and declarative approach (react=>what)
+
+render(ui view)-> maintain
+
+React(2013)-> open source frontend js library
+
+library and framework diff
+el framework ke andar bohot saari library hoti hai par react ek independet library h used to build complex ui
+
+SPA-> Single page application(html file ek hi hogiii) jiske anar renderimh hoti hai ....demand ke hisab se.  reload ki zarurat nhi hoti dusre page par jaane ke liye
+
+Features:
+1. Component based architecture
+1.2. react mei har ek cheez function hai
+1.3. componet 2 type class based and function based
+
+2. virtual dom(one of the reason why raect is fast)
+
+// JSX=> Javascript xml 
+3.conditional rendering 
+4. unidirectional data flow parent to children
+5. state management
+
+component-> has props and state make dynamic
+declarative approach solved by jsx
+
+Bundles=> react application
+
+
