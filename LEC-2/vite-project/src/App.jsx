@@ -1,8 +1,9 @@
 import './App.css'
+import React from 'react';
 
 function App() {
- return <div>hello</div>
-  
+
+  return <h1>Helo</h1>
 }
 
 let ele=App();
