@@ -1,0 +1,9 @@
+Ui chnage nhi hota baisic code se js ka ........isliey react ko kahena padega
+
+isliye we use Hooks
+Hooks: Hoks are fns that let you "hook into" React state
+
+State: {data} of particular component
+
+Stateless-> funttional
+Statefull-> class (no hooks)
