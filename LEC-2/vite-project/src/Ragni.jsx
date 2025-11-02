@@ -1,18 +1,28 @@
+import {Fragment} from "react";
+import "./App.css"
 
-
-export function Ragni(){
-   let a = 5;
+// named export
+export function Ragni() {
+    let a = 5;
     let b = 6;
 
     console.log(a + b);
 
-    // return (
-    //     <Fragment>
-    //         <h1 className="h1">Nishant</h1>
-    //         <h2>heelo</h2>
-    //     </Fragment>
-    // );
-    console.log(a+b);
-    return <h1>Ragni</h1>;
+    return (
+        <Fragment>
+            <h1 className="h1">Nishant</h1>
+            <h2>heelo</h2>
+        </Fragment>
+    );
 }
 
+//   default export
+// function Ragni(){
+//     let a = 5 ;
+//     let b = 6;
+
+//     console.log(a+b)
+//     return <h1>Nishant</h1>
+
+// }
+// export default Ragni
